@@ -1,5 +1,8 @@
 # conveyor-array-buffer
 Conveyor Array Buffer - Массив в виде "конвеерного буфера". На подобе истории. Новая запись в массив, смещает старую.
+
+<code>conveyor([value], [buffer_size])</code>
+
 <h2>PHP</h2>
 
 ```
